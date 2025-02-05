@@ -15,3 +15,5 @@ for e in arr:
      break
     k += 1
 print(arr.index(num))
+#check change
+print('testing git')

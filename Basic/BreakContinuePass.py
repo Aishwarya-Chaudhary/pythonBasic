@@ -20,3 +20,4 @@ for k in range(1,11):
     if k%2==0:
      pass
      print(k)
+print('git test 2')
